@@ -1,0 +1,22 @@
+{
+  "name": "coinbase-hack-starter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/loriopatrick/CoinbaseHackStarter.git"
+  },
+  "author": "Patrick Lorio <patrick@lorio.me>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/loriopatrick/CoinbaseHackStarter/issues"
+  },
+  "homepage": "https://github.com/loriopatrick/CoinbaseHackStarter#readme",
+  "dependencies": {
+    "coinbase": "2.0.4",
+    "express": "4.13.4",
+    "express-session": "1.13.0",
+    "request": "2.70.0"
+  }
+}
